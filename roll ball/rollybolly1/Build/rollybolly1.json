@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "rollybolly1.data.unityweb",
+"asmCodeUrl": "rollybolly1.asm.code.unityweb",
+"asmMemoryUrl": "rollybolly1.asm.memory.unityweb",
+"asmFrameworkUrl": "rollybolly1.asm.framework.unityweb",
+"asmLibraryUrl": "rollybolly1.asm.library.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
